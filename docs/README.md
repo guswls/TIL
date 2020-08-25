@@ -1,3 +1,3 @@
 # HyunJin TIL
 
-> An awesome project.
+> ✏ Today I Learned
