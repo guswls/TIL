@@ -1,3 +1,3 @@
-# Headline
+# HYUN JIN's TIL
 
-> An awesome project.
+>📒 Today, I Learned
